@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with **Deep Learning**
 - 💬 Ask me about **Python, Data Science and Machine Learning**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/saipavansaketh/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 - ⚡ Fun fact: ...

@@ -18,5 +18,5 @@
   <img align="left" alt="saketh's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31qjizlnc74venrodsqubkiyuab4?si=QgdylVNjT0OcKChD6C-sug&utm_source=whatsapp&dl_branch=1">
-  <img align="left" alt="saketh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="saketh's Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>

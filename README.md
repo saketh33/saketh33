@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Saketh.</h2>
 <A Data science Enthusiast specialized in Data science and Machine learning. I'm also a Data Analyst.>
-<img align="center" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif" width='900' height='500'>
+<img align="middle" src="https://i.pinimg.com/originals/77/29/f4/7729f4ebf5dd3d6754dee0ed5837ef77.gif" width='900' height='500'>
 
 ## About me
 - 🔭 I’m currently working on **NLP and Time series Forecasting**

@@ -9,6 +9,6 @@
 - 🤔 I’m looking for help with **Deep Learning**
 - 💬 Ask me about **Python, Data Science and Machine Learning**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/saipavansaketh/">
-  <img align="center" width="100px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-Black-Logo.wine.svg" />
+  <img align="center" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdNGIU4rIvxupF17K9oUXiwRTebqylvfxVs9D0QTQhmYuJ4PIL4HBDfP0zpl9IiIdQhA&usqp=CAU" />
   
 - ⚡ Fun fact: 

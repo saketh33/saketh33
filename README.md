@@ -10,3 +10,5 @@
 - 💬 Ask me about **Python, Data Science and Machine Learning**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/saipavansaketh/"><img align="center" width="70px" src="https://svgshare.com/i/ZEc.svg" /></a>
 - ⚡ fact: **while(!(succeed = try()));**
+ 
+ ![](https://komarev.com/ghpvc/?username=saketh33&style=flat-square)

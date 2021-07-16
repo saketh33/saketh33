@@ -21,10 +21,10 @@
   <img align="left" alt="saketh's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://www.instagram.com/saketh_simply/">
-  <img align="center" alt="saketh's instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="saketh's instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 <a href="https://www.kaggle.com/saipavansaketh">
-  <img align="center" alt="saketh's kaggle" width="60px" src="https://yanirseroussi.files.wordpress.com/2014/04/kaggle-logo-transparent-300.png" />
+  <img align="left" alt="saketh's kaggle" width="60px" src="https://yanirseroussi.files.wordpress.com/2014/04/kaggle-logo-transparent-300.png" />
 </a>
 
 

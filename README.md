@@ -11,6 +11,8 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/saipavansaketh/"><img align="center" width="60px" src="https://svgshare.com/i/ZEc.svg" /></a>
 - ⚡ fact: **while(!(succeed = try()));**
 
+![](https://visitor-badge.glitch.me/badge?page_id=saketh33) &nbsp; &nbsp;&nbsp;![](https://img.shields.io/github/followers/saketh33.svg?style=social&label=Follow)
+
 ### Where to Find Me
 <a href="mailto:saipavansaketh@gmail.com"><img align="top" alt="saketh's gmail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
 </a>

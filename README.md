@@ -10,13 +10,30 @@
 - 💬 Ask me about **Python, Data Science and Machine Learning**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/saipavansaketh/"><img align="center" width="60px" src="https://svgshare.com/i/ZEc.svg" /></a>
 - ⚡ fact: **while(!(succeed = try()));**
- 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/saketh33">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saketh33&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saketh33&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Where to Find Me
 <a href="mailto:saipavansaketh@gmail.com"><img align="top" alt="saketh's gmail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/sai-pavan-saketh/">
-  <img align="left" alt="saketh's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="saketh's linkedin" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/31qjizlnc74venrodsqubkiyuab4?si=QgdylVNjT0OcKChD6C-sug&utm_source=whatsapp&dl_branch=1">
-  <img align="left" alt="saketh's Spotify" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="saketh's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<a href="https://www.instagram.com/saketh_simply/">
+  <img align="left" alt="saketh's instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+</a>
+<a href="https://www.kaggle.com/saipavansaketh">
+  <img align="left" alt="saketh's kaggle" width="60px" src="https://yanirseroussi.files.wordpress.com/2014/04/kaggle-logo-transparent-300.png" />
+</a>
+
+

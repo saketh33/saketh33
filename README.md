@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+## I'm saketh
 
-# I'm saketh
+A Data science Enthusiast specialized in Data science and Machine learning. I'm also a Data Analyst.
+
 
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning deep learning

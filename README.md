@@ -12,7 +12,7 @@
 - ⚡ fact: **while(!(succeed = try()));**
  
 ### Where to Find Me
-<a href="mailto:saipavansaketh@gmail.com"><img align="center" alt="saketh's gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
+<a href="mailto:saipavansaketh@gmail.com"><img align="center" alt="saketh's gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
 </a>
 <a href="https://www.linkedin.com/in/sai-pavan-saketh/">
   <img align="left" alt="saketh's linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
